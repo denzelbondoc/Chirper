@@ -46,7 +46,7 @@
             </x-primary-button>
         </div>
 
-        <div class="flex items-left ">
+        <div class="flex items-left">
         @if (Route::has('register'))
                             <a href="{{ route('register') }}" class="text-align: left ml-4 text-sm text-gray-700 dark:text-gray-500 underline">Register</a>
                         @endif 
