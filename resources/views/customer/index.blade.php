@@ -6,7 +6,8 @@
     <title>Customer</title>
   </head>
   <body>
-    <h1 class=>Customer</h1>
+    <h1 class="text-center">Customer</h1>
+    <br>
     <table class="table table-striped table-dark">
     <thead>
     <tr>
